@@ -26,7 +26,7 @@ body {
 }
 
 .container:hover {
-    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.308);
+    box-shadow: 2px 2px 10px rgba(255, 255, 255, 0.308);
 }
 
 h1 {
@@ -74,4 +74,5 @@ h1 {
     color: #fff;
 
 }
+
 
